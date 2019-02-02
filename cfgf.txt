@@ -2,4 +2,5 @@
 #incldue <conio.h>
 
 int main(){
+    cout << "Lole";
 }
