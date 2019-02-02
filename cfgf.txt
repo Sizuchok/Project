@@ -1,2 +1,5 @@
 #include <iostream>
 #incldue <conio.h>
+
+int main(){
+}
