@@ -4,4 +4,6 @@
 int main(){
     cout << "Lole";
     cout << "Betch";
+
+    return 0;
 }
